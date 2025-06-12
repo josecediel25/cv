@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  11 JUN 2025 21:59
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  11 JUN 2025 22:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -580,7 +580,37 @@ LaTeX Font Warning: Font shape `TU/Lato(2)/m/sc' undefined
 
 [1
 
-]) (./cv/pubs.tex
+]) (./cv/teaching.tex
+
+LaTeX Font Warning: Font shape `TU/Lato(0)/m/scit' undefined
+(Font)              using `TU/Lato(0)/m/it' instead on input line 38.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--68
+
+ []
+
+) (./cv/pubs.tex
+Overfull \hbox (3.18344pt too wide) in paragraph at lines 40--2
+[][] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--2
+
+ []
+
+
 Overfull \hbox (14.22638pt too wide) in alignment at lines 8--20
 [] [] 
  []
@@ -600,7 +630,9 @@ Overfull \hbox (14.22638pt too wide) in alignment at lines 77--92
 [] [] 
  []
 
-) (./cv/talks.tex
+
+
+[2]) (./cv/talks.tex
 Overfull \hbox (14.22638pt too wide) in alignment at lines 7--17
 [] [] 
  []
@@ -610,9 +642,6 @@ Overfull \hbox (14.22638pt too wide) in alignment at lines 23--37
 [] [] 
  []
 
-
-
-[2]
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 9.00096pt on input line 48.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
@@ -630,9 +659,11 @@ Overfull \hbox (14.22638pt too wide) in alignment at lines 44--92
 [] [] 
  []
 
-) (./cv/orgs.tex) (./cv/Further.tex) (./cv/grants.tex)
+) (./cv/orgs.tex) (./cv/Further.tex
 
-[3] (./Cediel.aux)
+[3]) (./cv/grants.tex)
+
+[4] (./Cediel.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -645,12 +676,12 @@ Package rerunfilecheck Info: File `Cediel.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18707 strings out of 473832
- 340189 string characters out of 5729482
+ 18719 strings out of 473832
+ 340509 string characters out of 5729482
  922694 words of memory out of 5000000
- 41506 multiletter control sequences out of 15000+600000
- 562723 words of font info for 110 fonts, out of 8000000 for 9000
+ 41514 multiletter control sequences out of 15000+600000
+ 562731 words of font info for 111 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  101i,11n,120p,636b,508s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Cediel.pdf (3 pages).
+Output written on Cediel.pdf (4 pages).
